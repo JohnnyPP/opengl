@@ -10,12 +10,12 @@
 
 Display::Display(int height, int width, const std::string &title)
 {
-	std::cout << "Hello OpenGL constructor" << std::endl;
+	std::cout << "Hello OpenGL constructor GitHub" << std::endl;
 
 }
 
 Display::~Display()
 {
-	std::cout << "Hello OpenGL destructor" << std::endl;
+	std::cout << "Hello OpenGL destructor GitHub" << std::endl;
 }
 
